@@ -17,7 +17,8 @@ namespace ProjetoVendas.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Testando alterações no texto da página.";
+            ViewData["Professor"] = "Prof. Nélio Alves";
 
             return View();
         }
