@@ -33,5 +33,9 @@ C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.pdb
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.genruntimeconfig.cache
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csproj.CopyComplete
-C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csproj.CoreCompileInputs.cache
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csproj.CoreCompileInputs.cache
