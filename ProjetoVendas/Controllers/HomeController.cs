@@ -4,9 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ProjetoVendas.Models;
+using ProjetoVendas.Models.ViewModels;
 
-namespace ProjetoVendas.Controllers
+namespace ProjetoVendas.Models.ViewModels
+
 {
     public class HomeController : Controller
     {

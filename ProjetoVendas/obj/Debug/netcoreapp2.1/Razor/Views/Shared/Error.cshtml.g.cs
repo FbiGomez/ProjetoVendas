@@ -19,7 +19,7 @@ using ProjetoVendas;
 #line default
 #line hidden
 #line 2 "C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\Views\_ViewImports.cshtml"
-using ProjetoVendas.Models;
+using ProjetoVendas.Models.ViewModels;
 
 #line default
 #line hidden

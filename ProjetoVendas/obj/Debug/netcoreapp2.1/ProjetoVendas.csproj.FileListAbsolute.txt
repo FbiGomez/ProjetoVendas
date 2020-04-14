@@ -1,5 +1,4 @@
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csprojAssemblyReference.cache
-C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csproj.CoreCompileInputs.cache
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.RazorAssemblyInfo.cache
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\bin\Debug\netcoreapp2.1\appsettings.json
@@ -34,3 +33,5 @@ C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.pdb
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.genruntimeconfig.cache
 C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csproj.CopyComplete
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\ProjetoVendas.csproj.CoreCompileInputs.cache
+C:\Users\flagg\source\repos\ProjetoVendas\ProjetoVendas\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
