@@ -38,19 +38,22 @@ namespace ProjetoVendas
 
             services.AddDbContext<ProjetoVendasContext>(options =>
                     options.UseMySql(Configuration.GetConnectionString("ProjetoVendasContext"), builder=>builder.MigrationsAssembly("ProjetoVendas")));
+            services.AddScoped<SeedingService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, SeedingService seedingService)
         {
-            if (env.IsDevelopment())
+            if (env.IsDevelopment()) // Se estiver no ambiente de desenvolvimento
             {
                 app.UseDeveloperExceptionPage();
+                seedingService.Seed(); // irá popular a base de dados se ele estiver vazio
             }
-            else
+            else // Se estiver no ambiente de produção
             {
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
+                 
             }
 
             app.UseHttpsRedirection();
